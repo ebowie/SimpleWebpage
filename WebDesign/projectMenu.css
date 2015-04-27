@@ -1,0 +1,53 @@
+a:link {
+	color: white;
+	 text-decoration: none;
+}
+a:visited {
+	color: white;
+	 text-decoration: none;
+}
+a:active {
+	color: #0066FF;
+	 text-decoration: none;
+}
+a:hover {
+	color: #0066FF;
+	 text-decoration: none;
+}
+#menu{
+	position: absolute;
+	left:730px;
+	bottom: 3px;
+}
+#menu1{
+	position: absolute;
+	left:800px;
+	bottom: 3px;
+}
+
+#w:link {
+	color: white;
+	 text-decoration: none;
+}
+#w:visited {
+	color: white;
+	 text-decoration: none;
+}
+#w:active {
+	color: #0047B2;
+	 text-decoration: none;
+}
+#w:hover {
+	color: #0047B2;
+	 text-decoration: none;
+}
+#footer1{
+	 position: absolute;  /* needed for stacking */
+    background-color: #0066FF;
+    height: 50px;
+    width: 68.1%;
+    top:550px;
+     
+   
+    left:180px;
+}

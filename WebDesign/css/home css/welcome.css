@@ -1,0 +1,14 @@
+#welcomeInner{
+
+    font-family: 'Orbitron';
+    color:#0047B2;
+
+}
+#welcome {
+	position: absolute;  /* needed for stacking */
+    background-color: #99CCFF;
+    height: 150px;
+    width: 67.8%;
+    left: 180px;
+    top:430px;
+}

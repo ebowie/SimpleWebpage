@@ -1,0 +1,37 @@
+#leftTabInner {
+   
+    color: white;
+    font-family: 'Orbitron';
+}
+#leftTab{
+	position: absolute;  /* needed for stacking */
+    background-color: #0066FF;
+    height: 350px;
+    width: 20%;
+    left: 180px;
+    top:650px;
+}
+#centerTabInner{
+    color: white;
+    font-family: 'Orbitron';
+}
+#centerTab{
+	position: absolute;  /* needed for stacking */
+    background-color: #0066FF;
+    height: 350px;
+    width: 20%;
+    left: 505px;
+    top:650px;
+}
+#rightTabInner {
+    color: white;
+    font-family: 'Orbitron';
+}
+#rightTab{
+	position: absolute;  /* needed for stacking */
+    background-color: #0066FF;
+    height: 350px;
+    width: 20%;
+    left: 830px;
+    top:650px;
+}

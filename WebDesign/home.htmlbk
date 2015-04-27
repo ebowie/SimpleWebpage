@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<HTML>
+	<head>
+	<link href='http://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="css/home.css">
+    <link rel="stylesheet" type="text/css" href="css/slideshow.css">
+    <link rel="stylesheet" type="text/css" href="css/menu.css">
+    <link rel="stylesheet" type="text/css" href="css/welcome.css">
+    <link rel="stylesheet" type="text/css" href="css/tabs.css">
+
+</head>
+<body>
+
+<img src = "background.jpg" id = "bg" alt="backgroundPage">
+
+	<div id="header">
+		<div id="headerInner">
+		<h1>Eric Bowers</h1>
+		
+	</div>
+	<div id = "headerP">
+		<p>Web and Mobile Developer</p>
+	</div>
+    </div> 
+
+
+    <div id="slideshow">
+    </div>   
+
+    <div id="footer">
+    </div>
+
+    <div id ="menu">
+    	<div id= "menuEdit">
+    	 <ul style="list-style-type:none" >
+  			<li style = "font-size:20px";><a href ="">Main</a></li><br>
+  			<li style = "font-size:20px";><a href ="">Projects</a></li><br>
+  			<li style = "font-size:20px";><a href ="">Experences</a></li><br>
+  			<li style = "font-size:20px";><a href ="">Contacts</a></li>
+		</ul>
+	</div>
+    </div>
+
+    <div id="welcome">
+    	<div id = "welcomeInner">
+    	<h2 align = "center">Welcome Message</h2>
+    </div>
+    </div>
+
+    <div id="leftTab">
+    	<div id ="leftTabInner">
+    	<h2 align = "center">About Me</h2>
+    	</div>
+    </div>
+
+    <div id="centerTab">
+    	<div id ="centerTabInner">
+    		<h2 align = "center">New Projects</h2>
+    	</div>
+    </div>
+
+    <div id="rightTab">
+    	<div id = "rightTabInner">
+    		<h2 align = "center">Program Languages</h2>
+    	</div>
+    </div>
+
+
+</body>	
+</HTML>
